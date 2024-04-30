@@ -44,6 +44,3 @@ plt.ylabel('Preço de Fechamento')
 plt.title('Previsão de Preço de Fechamento vs Dados Reais')
 plt.legend()
 plt.show()
-
-
-
